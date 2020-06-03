@@ -1,4 +1,4 @@
-## g-m-green-syntax theme
+# Gunmetal
 
 A short description of your theme.
 
