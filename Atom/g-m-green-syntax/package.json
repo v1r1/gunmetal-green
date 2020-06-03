@@ -1,13 +1,13 @@
 {
-  "name": "g-m-green-syntax",
+  "name": "gunmetal-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "A syntax forged by Gunmetal",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/g-m-green-syntax",
+  "repository": "https://github.com/vaynwork/gunmetal",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
