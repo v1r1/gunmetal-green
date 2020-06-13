@@ -13,8 +13,20 @@
 .tree-view {
   color: @text-color;
   background-color: @tree-view-background-color;
+  font-size: 100%;
 
   .list-item.selected {
     color: @text-color-selected;
   }
+}
+
+// Scrollbar CSS
+.tree-view::-webkit-scrollbar {
+  width: .5em;
+}
+.tree-view::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 20px #2A3439;
+}
+.tree-view::-webkit-scrollbar-thumb {
+  background-color: darken(#2A3439, 5%);
 }
