@@ -39,6 +39,13 @@
 
 }
 
+@font-face {
+  font-family: 'EXEPixelPerfect';
+  src:
+    local('EXEPixelPerfect'),
+    url('/EXEPixelPerfect.ttf') format('truetype');
+}
+
 .gunmetal {
   --background-color: #2A3439;
   --background-border-color: #2A3439;
@@ -52,6 +59,7 @@
 }
 
 header {
+  font-style: EXEPixelPerfect;
   height:100vh;
   background:#2A3439;
   color:#AAA9AD;
