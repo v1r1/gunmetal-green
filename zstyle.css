@@ -1,7 +1,7 @@
 :root {
 
   --margin: 5px;
-  
+
   --y-axis-page-align: flex-start;
   --x-axis-page-align: center;
 
@@ -37,4 +37,9 @@
   --header-font: 'Open Sans', sans-serif;
   --font-size: var(--responsive-font-size);
 
+}
+
+header {
+  height:1vh;
+  background:#2A3439;
 }
