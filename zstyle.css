@@ -59,8 +59,12 @@
 }
 
 header {
-  font-family: 'EXEPixelPerfect';
   height:100vh;
   background:#2A3439;
   color:#AAA9AD;
+}
+header h1 {
+  font-family: 'EXEPixelPerfect';
+  font-size: 4em;
+  font-weight: 100;
 }
