@@ -8,17 +8,11 @@
   --primary-color: #bbb;
   --secondary-color: darkgrey;
   --tertiary-color: lime;
-  --background-color: #222;
+  --background-color: transparent;
   --background-border-color: #1d1d1d;
   --border-bg-color: #2e2e2e;
 
-  --background: transparent;
-
-  /* Border */
-  --border-type: solid;
-  --border-thickness: 0px;
-  --border-radius: 0px;
-  --border-color: #333;
+  --background: #2a3439;
 
   /* Scrollbar */
   --scrollbar-width: 5px;
