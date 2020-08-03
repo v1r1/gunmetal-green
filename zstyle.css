@@ -16,8 +16,8 @@
 
   /* Scrollbar */
   --scrollbar-width: 5px;
-  --scrollbar-track: #111;
-  --scrollbar-handle: grey;
+  --scrollbar-track: #2a3439;
+  --scrollbar-handle: #181e21;
 
   /* Selection */
   --selection-background: lightblue;
