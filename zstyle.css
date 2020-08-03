@@ -52,6 +52,13 @@
   font-size: 2em;
 }
 
+.color-scheme {
+  background: #00000045;
+}
+.color-scheme div {
+  padding: 40px;
+}
+
 section {
   background: #0000002e;
 }
