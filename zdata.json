@@ -3,6 +3,6 @@
   "description": "A dark theme based on the Gunmetal color scheme",
   "config": "/",
   "files": "assets",
-  "theme": "default",
+  "theme": "gunmetal",
   "layout": 0
 }
