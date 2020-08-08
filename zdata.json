@@ -4,5 +4,5 @@
   "config": "/",
   "files": "assets",
   "theme": "gunmetal",
-  "layout": 0
+  "layout": "default",
 }
