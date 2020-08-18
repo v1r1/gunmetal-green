@@ -5,6 +5,8 @@
   --y-axis-page-align: flex-start;
   --x-axis-page-align: center;
 
+  --color-logo: #AAA9AD;
+
   --primary-color: #bbb;
   --secondary-color: darkgrey;
   --tertiary-color: lime;
@@ -29,6 +31,7 @@
   --font-primary: 'Open Sans', sans-serif;
   --font-secondary: 'Open Sans', sans-serif;
   --font-header: 'Open Sans', sans-serif;
+  --font-logo: 'Staatliches';
   --font-size: var(--responsive-font-size);
 
 }
@@ -63,8 +66,6 @@ section {
   background: #0000002e;
 }
 
-header h1 {
-  font-family: 'Staatliches';
-  font-size: 6em;
+header {
   font-weight: 100;
 }
