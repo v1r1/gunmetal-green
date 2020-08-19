@@ -16,16 +16,13 @@
 
   --background: #2a3439;
 
-  /* Scrollbar */
   --scrollbar-width: 5px;
   --scrollbar-track: #2a3439;
   --scrollbar-handle: #181e21;
 
-  /* Selection */
   --selection-background: lightblue;
   --selection-color: white;
 
-  /* Page Width */
   --max-width: 900px;
 
   --font-primary: 'Open Sans', sans-serif;
@@ -33,7 +30,6 @@
   --font-header: 'Open Sans', sans-serif;
   --font-logo: 'Staatliches';
   --font-size: var(--responsive-font-size);
-
 }
 
 .gunmetal {
