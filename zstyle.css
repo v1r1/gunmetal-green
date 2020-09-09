@@ -29,7 +29,7 @@
   --font-secondary: 'Open Sans', sans-serif;
   --font-header: 'Open Sans', sans-serif;
   --font-logo: 'Staatliches';
-  --font-size: var(--responsive-font-size);
+  --font-size: 100%;
 }
 
 .gunmetal {
